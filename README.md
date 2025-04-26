@@ -38,6 +38,8 @@ With a strong foundation in **Data Engineering**, **Machine Learning**, **MLOps*
 - Deploying **LLMs** into real-world scalable apps
 - Enhancing **Generative AI** models for healthcare and education use-cases
 - Building **end-to-end ML pipelines** with modern cloud-native tools
+- Expanding expertise in **cloud architecture and solutions engineering** (AWS Certified)
+
 
 ---
 
@@ -64,6 +66,7 @@ With a strong foundation in **Data Engineering**, **Machine Learning**, **MLOps*
 
 ### 🧩 Badges I Wear:
 ![MLOps Enthusiast](https://img.shields.io/badge/-MLOps-informational?style=flat&logo=docker&logoColor=white)
+![AWS Academy Graduate](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Architecting-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Cloud Engineer](https://img.shields.io/badge/-Cloud%20Engineering-blue?style=flat&logo=googlecloud&logoColor=white)
 ![Data Engineer](https://img.shields.io/badge/-Data%20Engineering-green?style=flat&logo=apacheairflow&logoColor=white)
 ![LLM Explorer](https://img.shields.io/badge/-LLM%20Explorer-purple?style=flat&logo=OpenAI&logoColor=white)
