@@ -25,6 +25,7 @@ With a strong foundation in **Data Engineering**, **Machine Learning**, **MLOps*
 | **Analytics & Visualization** | Tableau | Power BI | Matplotlib | Seaborn |
 | **Programming**    | Python 🐍 | Java | SQL |
 
+
 ---
 
 ### 📚 Recent Projects:
