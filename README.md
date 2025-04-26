@@ -19,11 +19,12 @@ With a strong foundation in **Data Engineering**, **Machine Learning**, **MLOps*
 ### 🛠️ Tech Stack:
 | Category          | Tools & Platforms |
 |-------------------|-------------------|
-| **Cloud & MLOps**  | GCP ☁️ | AWS ☁️ | MLflow | DVC | Docker 🐳 | Kubernetes |
-| **ML & AI**        | TensorFlow | PyTorch ⚡ | Scikit-learn | Hugging Face 🤗 |
-| **Data Engineering** | SQL | BigQuery | MongoDB | Apache Airflow | ETL/ELT Pipelines |
-| **Analytics & Visualization** | Tableau | Power BI | Matplotlib | Seaborn |
-| **Programming**    | Python 🐍 | Java | SQL |
+| **Cloud & MLOps**  | GCP ☁️, AWS ☁️, MLflow |  
+| **Orchestration & Containers**   |  Docker 🐳 , Kubernetes |
+| **ML & AI**        | TensorFlow , PyTorch ⚡ , Scikit-learn , Hugging Face 🤗 |
+| **Data Engineering** | SQL , BigQuery , MongoDB , Apache Airflow , ETL/ELT Pipelines, Snowflake, Teradata, SAS |
+| **Analytics & Visualization** | Tableau , Power BI , Matplotlib , Seaborn |
+| **Programming**    | Python 🐍 , Java , SQL |
 
 
 ---
