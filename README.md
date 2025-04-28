@@ -56,13 +56,6 @@ With a strong foundation in **Data Engineering**, **Machine Learning**, **MLOps*
 
 ![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushboogalrani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushboogalrani&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=khushboogalrani&theme=radical)
-
----
-
-### 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khushboogalrani&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
